@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ApplicationClassLibrary/ApplicationClassLibrary.csproj" Id="1fbcedda-5989-4d67-883b-51b58412116a" />
+  <Project Path="MunicipalityApplicationSystem/MunicipalityApplicationSystem.csproj" />
+</Solution>
