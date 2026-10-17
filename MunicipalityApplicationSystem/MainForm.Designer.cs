@@ -130,6 +130,7 @@
             btnReqeustService.TabIndex = 7;
             btnReqeustService.Text = "Request Service";
             btnReqeustService.UseVisualStyleBackColor = false;
+            btnReqeustService.Click += btnReqeustService_Click;
             // 
             // label5
             // 

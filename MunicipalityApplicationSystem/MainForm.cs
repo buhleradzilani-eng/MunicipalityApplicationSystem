@@ -18,5 +18,11 @@ namespace MunicipalityApplicationSystem
             AnnouncementForm announcementForm = new AnnouncementForm();
             announcementForm.Show();
         }
+
+        private void btnReqeustService_Click(object sender, EventArgs e)
+        {
+            ServiceStatus serviceRequestForm = new ServiceStatus();
+            serviceRequestForm.ShowDialog();
+        }
     }
 }
