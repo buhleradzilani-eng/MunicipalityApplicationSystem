@@ -117,6 +117,7 @@
             btnAnnouncement.TabIndex = 6;
             btnAnnouncement.Text = "Announcements";
             btnAnnouncement.UseVisualStyleBackColor = false;
+            btnAnnouncement.Click += btnAnnouncement_Click;
             // 
             // btnReqeustService
             // 

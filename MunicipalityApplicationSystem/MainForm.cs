@@ -12,5 +12,11 @@ namespace MunicipalityApplicationSystem
             ReportIssueForm reportIssueForm = new ReportIssueForm();
             reportIssueForm.Show();
         }
+
+        private void btnAnnouncement_Click(object sender, EventArgs e)
+        {
+            AnnouncementForm announcementForm = new AnnouncementForm();
+            announcementForm.Show();
+        }
     }
 }
